@@ -9,7 +9,7 @@ A place to collect links and information for VRChat avatar/world creation.
 | [Pumkin's Avatar Tools](https://github.com/rurre/PumkinsAvatarTools)            | rurre         | An editor script that adds tools to help you setup avatars faster and easier.                     |
 | [Poiyomi Toon Shader](https://github.com/poiyomi/PoiyomiToonShader)              | Poiyomi       | The most popular shader in VRC, with lots of great options and capabilities                       |
 | [VRChat Animator Controller Fixer](https://github.com/ShockDW/VRCAnimatorControllerFixer) | Me! (ShockDW) | A Unity plugin to automate setting layer weights & exit times for your FX Layer.                  |
-
+| [Alloy Physical Shader](https://alloy.rustltd.com/)            | Josh015/Rust LLC | A very nice (but more involved) realistic shader.  Note: Will import with issues in modern version of Unity;  follow James Arndt's awesome tutorial [here](https://www.youtube.com/watch?v=qXj0kuNqMSY) to to get it working! |
 ## Blender
 
 | Name                                                                           | Author           | Description                                                                        |
