@@ -5,6 +5,7 @@ A place to collect links and information for VRChat avatar/world creation.
 | Name                             | Author        | Description                                                                                       |
 |----------------------------------|---------------|---------------------------------------------------------------------------------------------------|
 | [World Constraint](https://github.com/VRLabs/World-Constraint)                 | VRLabs        | Allows you to place objects in the world and have them stay put regardless of your own movements. |
+| [Laying / Sitting Animation Prefab](https://github.com/Dervali-git/VRC-Tips/releases) | Dervali | A nice prefab for laying/sitting without full body. |
 | [VRChat Gesture Manager](https://github.com/BlackStartx/VRC-Gesture-Manager)           | BlackStartx   | A tool that will help you preview and edit your avatar animation directly in Unity.               |
 | [Pumkin's Avatar Tools](https://github.com/rurre/PumkinsAvatarTools)            | rurre         | An editor script that adds tools to help you setup avatars faster and easier.                     |
 | [Poiyomi Toon Shader](https://github.com/poiyomi/PoiyomiToonShader)              | Poiyomi       | The most popular shader in VRC, with lots of great options and capabilities                       |
